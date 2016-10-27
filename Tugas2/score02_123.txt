@@ -1,0 +1,14 @@
+20/10/16
++10 tugas siap
++15 untuk 15 lagu tambahan setelah 5 lagu pertama
++5 untuk folder image
+JUMLAH=30
+
+27/10/16
++10 untuk tugas dikerjakan
+-2 untuk setiap  setiap penggunaaan warna dalam CSS
++5 untuk setiap selector yang lebih dari 5 baris
++80 untuk setiap pemanggilan class yang sama dalam HTML
+JUMLAH=93
+
+Score=123
