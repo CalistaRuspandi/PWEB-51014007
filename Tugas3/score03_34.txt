@@ -1,0 +1,4 @@
++10 untuk tugas selesai(sudah sync ke github per tanggal 02/11/16 23:59 pm)
++15 untuk setiap selector yang lebih dari 5 properties
++6 untuk setiap class ke-5 sampai class ke-10
++3 untuk tampilan menu lagu yang unik(bukan link biasa)
