@@ -1,0 +1,3 @@
+Theme Freelancer(http://github.com/BlackrockDigital/starbootsrap-freelancer/archive/gh-pages.zip)
++10 untuk tugas yang di commit terakhir selambatnya tanggal 09/11/2016 23:59:59
++9 untuk setiap class yang dibuat sendiri
