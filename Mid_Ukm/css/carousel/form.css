@@ -1,0 +1,14 @@
+.form-container {
+	width: 50%;
+
+}
+
+.form-cell {
+	width: 100%;
+	border-style: solid;
+	border-color: white;
+	background-color:#a4d7f2;
+	empty-cells: show;
+	border-spacing: 15px;
+	border-collapse: separate;
+}
